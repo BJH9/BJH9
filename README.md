@@ -22,8 +22,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 </div>
 
-![BJH9's GitHub stats](https://github-readme-stats.vercel.app/api?username=BJH9&show_icons=true&theme=radical)
-
 <!-- ## ⚡️ Activities
 #### 🛠 Weekily development breakdown -->
 <!--START_SECTION:waka-->
