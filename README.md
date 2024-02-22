@@ -1,5 +1,6 @@
 # 👋 Hi there 
-- 👩🏽‍💻 I'm interested in WebApp, Backend, NLP🚀<br>
+- 👩🏽‍💻 I'm interested in **Frontend, Backend, AI NLP task**🚀<br>
+- 🔭 I majored in **Artificial Intelligence, Computer Science and Computer Engineering**.
 - 🛠️ I'm currently studying on **Naver Boostcamp AI tech 6th**
 
 
