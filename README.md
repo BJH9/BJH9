@@ -4,7 +4,7 @@
 - 👩🏽‍💻 I'm interested in **Frontend, Backend, AI NLP task**🚀<br>
 - 🔭 I majored in **Artificial Intelligence, Computer Science and Computer Engineering**.
 - 🛠️ I'm currently studying on **Naver Boostcamp AI tech 6th**
-
+<br><br><br>
 
 
 
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 </div>
-
+<br><br><br>
 
 
 
@@ -35,6 +35,7 @@
 <p align="center">
   <a href="mailto:tfzangin9@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
+<br><br><br>
 
 <!-- ## ⚡️ Activities
 #### 🛠 Weekily development breakdown -->
