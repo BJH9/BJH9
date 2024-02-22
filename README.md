@@ -6,6 +6,9 @@
 - 🛠️ I'm currently studying on **Naver Boostcamp AI tech 6th**
 
 
+
+
+
 ## ✨ Tech Stack ✨ 
 <div align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -24,6 +27,14 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 </div>
 
+
+
+
+
+## ✨ Contact ✨
+<p align="center">
+  <a href="mailto:tfzangin9@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
 
 <!-- ## ⚡️ Activities
 #### 🛠 Weekily development breakdown -->
