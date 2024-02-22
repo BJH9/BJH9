@@ -22,6 +22,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BJH9&langs_count=8)](https://github.com/BJH9/github-readme-stats)
+
 <!-- ## ⚡️ Activities
 #### 🛠 Weekily development breakdown -->
 <!--START_SECTION:waka-->
